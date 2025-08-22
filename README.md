@@ -69,7 +69,7 @@ git clone https://github.com/rdvan45keskin/MemberRegistration.git
 4. MemberRegistration.MvcWebUI veya MemberRegistration.ConsoleUI projelerinden birini başlatın.
 
 🖼️ Ekran Görüntüsü
-Screenshot_1.png
+![Kayıt Ekranı](Screenshot_1.png)
 
 
 
