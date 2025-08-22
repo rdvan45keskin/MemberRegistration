@@ -62,7 +62,7 @@ Projede, **Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü (NVİ) KPSPubli
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullanici-adiniz/MemberRegistration.git
+git clone https://github.com/rdvan45keskin/MemberRegistration.git
 ```
 2. MemberRegistration.sln dosyasını Visual Studio ile açın.
 3. Gerekli NuGet paketlerini yükleyin.
