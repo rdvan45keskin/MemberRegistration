@@ -68,6 +68,9 @@ git clone https://github.com/rdvan45keskin/MemberRegistration.git
 3. Gerekli NuGet paketlerini yükleyin.
 4. MemberRegistration.MvcWebUI veya MemberRegistration.ConsoleUI projelerinden birini başlatın.
 
+🖼️ Ekran Görüntüsü
+Screenshot_1.png
+
 
 
 
